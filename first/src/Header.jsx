@@ -1,5 +1,5 @@
-function Header()=>{
-  return(
+function Header() {
+  return (
     <div>Hello</div>
   );
 }
